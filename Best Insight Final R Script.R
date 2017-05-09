@@ -1,5 +1,5 @@
 #"Best Insight" Final R Document
-#Usde/Important 80 lines of code (Out of 400 used during competition)
+#Used/Important 60 lines of code (Out of 400 used during competition)
 
 #Read In Data
 master_list <- fread("data.txt")
